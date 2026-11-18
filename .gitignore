@@ -1,0 +1,9 @@
+node_modules
+dist
+test-results
+reports/playwright
+reports/perf/raw
+playwright/.cache
+*.log
+.DS_Store
+.vercel
